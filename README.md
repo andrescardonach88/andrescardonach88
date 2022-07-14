@@ -2,7 +2,7 @@
              
          HOLA SOY CHARLIE C. CHAMORRO 
          
-         Joven Desarrollador de Software de Cali, Colombia. Hago parte del Bootcamp de EDUCACION IT.
+         Joven Desarrollador de Software de Cali, Colombia.
 
 Desarrollador  VUE
 ![image](https://user-images.githubusercontent.com/99897595/172464373-28788f4d-ccea-40ec-a8e9-c43e325f268d.png)
