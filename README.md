@@ -2,8 +2,7 @@
              
          HOLA SOY CHARLIE C. CHAMORRO 
          
-         Desarrollador de Software Junior, con experiencia en Wordpress y creacion de pagina Web html, css, Javascript y Vue
-         
+      
          
 
 Desarrollador  VUE
